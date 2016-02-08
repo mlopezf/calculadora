@@ -1,6 +1,7 @@
 En primer lugar definimos las tareas de la historia estandar.
 
 
+
 SUMA
 Se hacen los algoritmos necesarios para que se haga la suma.
 
@@ -8,4 +9,9 @@ Se hacen los algoritmos necesarios para que se haga la suma.
 RESTA
 
 Realizamos el algoritmo necesario para realizar una resta entre dos números.
+
+
+MULTIPLICACIÓN
+
+Vamos a desarrollar un algoritmo para multiplicar dos números entre sí.
 
