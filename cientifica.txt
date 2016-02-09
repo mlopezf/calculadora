@@ -1,1 +1,5 @@
 En primer lugar definimos las tareas de la historia cientifica.
+
+SENO
+
+Creamos el algoritmo necesario para calcular el seno de un número.
